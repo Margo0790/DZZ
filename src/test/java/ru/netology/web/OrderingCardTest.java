@@ -18,6 +18,7 @@ public class OrderingCardTest {
 
     @BeforeAll
     static void setupAll() {
+
         WebDriverManager.chromedriver().setup();
     }
 
